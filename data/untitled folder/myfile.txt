@@ -1,3 +1,0 @@
-hello text file
-goodbye text file
-43,44,45
